@@ -1,0 +1,25 @@
+{
+  "name": "tddhw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiegoSolorzanoO/TDDHW.git"
+  },
+  "author": "Diego Solórzano Ortiz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DiegoSolorzanoO/TDDHW/issues"
+  },
+  "homepage": "https://github.com/DiegoSolorzanoO/TDDHW#readme",
+  "devDependencies": {
+    "jest": "^27.0.3"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
